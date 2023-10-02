@@ -4,7 +4,7 @@ This repository contains the agenda and materials for the [FMI Beginner's tutori
 
 ## Part 1: Introduction to the FMI (40 min)
 
-by @chrbertsch
+by [Christian Bertsch](https://github.com/chrbertsch)
 
 [PowerPoint presentation](part1/Introduction-to-FMI.pptx) covering
 
@@ -14,7 +14,7 @@ by @chrbertsch
 
 ## Part 2: Working with FMUs (45 min) (Torsten)
 
-by @t-sommer
+by [Torsten Sommer](https://github.com/t-sommer)
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ Live demo + Jupyter notebook
 
 ## Part 3: Interacting with multiple FMUs (45 min)
 
-by @clagms and @mapalmieri
+by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https://github.com/clagms)
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ Jupyter notebook (with maestro: - connecting and co-simulating multiple FMUs
 
 ## Part 4: Closing Session (Outlook, giving hints to additional material) (Cinzia / Claudio) 10 min
 
-by @clagms and @cbernardeschi
+by [Cinzia Bernardeschi](https://github.com/cbernardeschi) and [Cláudio Gomes](https://github.com/clagms)
 
 - (further) application catategories
 - role of FMI and Digital twin
