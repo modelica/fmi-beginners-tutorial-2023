@@ -69,7 +69,7 @@ Jupyter notebook (with maestro: - connecting and co-simulating multiple FMUs
 - solver step size: varying from the command line, convergence study
 - include import of PI Controller from Simulink
 
-## Part 4: Closing Session (Outlook, giving hints to additional material) (Cinzia / Claudio) 10 min
+## Part 4: Closing Session (10 min)
 
 by [Cinzia Bernardeschi](https://github.com/cbernardeschi) and [Cláudio Gomes](https://github.com/clagms)
 
