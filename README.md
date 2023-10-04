@@ -8,9 +8,8 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 
 [PowerPoint presentation](part1/Introduction-to-FMI.pptx) covering
 
-- the history of the FMI
-- general concepts
-- best practices (units, descriptions, naming)
+- the motivation and history of the FMI
+- general technical concepts
 
 ## Part 2: Working with FMUs (45 min)
 
@@ -59,6 +58,9 @@ by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https
 ### Prerequisites
 
 TODO
+
+* Installation of IntoCPS App  (Video showing the installation of the IntoCPS applicaiton:  https://filesender.deic.dk/?s=download&token=233b87a9-33d7-496b-bba5-d2b489ef91bc)
+
 
 ### Schedule
 
