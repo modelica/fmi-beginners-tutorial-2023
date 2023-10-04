@@ -80,3 +80,15 @@ by [Cinzia Bernardeschi](https://github.com/cbernardeschi) and [Cláudio Gomes](
 - FMI in simulation, FMI in Monitoring, 
 
 ## Q&A (10 min)
+
+
+
+
+
+
+# Copyright and License
+
+Code and documentation copyright (C) 2023 the Modelica Association Project FMI.
+Code released under the https://opensource.org/licenses/BSD-2-Clause[2-Clause BSD License].
+Docs released under https://creativecommons.org/licenses/by-sa/4.0/[Attribution-ShareAlike 4.0 International].
+
