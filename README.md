@@ -12,7 +12,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 - general concepts
 - best practices (units, descriptions, naming)
 
-## Part 2: Working with FMUs (45 min) (Torsten)
+## Part 2: Working with FMUs (45 min)
 
 by [Torsten Sommer](https://github.com/t-sommer)
 
