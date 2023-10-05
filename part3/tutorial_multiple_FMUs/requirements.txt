@@ -1,0 +1,3 @@
+notebook
+pandas
+matplotlib

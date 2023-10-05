@@ -1,0 +1,17 @@
+{
+	"fmus": {
+		"{baseline}": "./fmus/MODELICA_Demo.ControlledElectricDrive.fmu"
+	},
+	"connections": {
+	},
+	"parameters": {},
+	"logVariables": {
+		"{baseline}.baselineInstance": ["w"]
+	},
+	"algorithm":{
+		"type":"fixed-step",
+		"size":0.001
+	},
+	"loggingOn": false,
+	"overrideLogLevel": "INFO"
+}

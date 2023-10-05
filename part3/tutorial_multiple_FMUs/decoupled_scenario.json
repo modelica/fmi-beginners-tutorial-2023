@@ -1,0 +1,28 @@
+{
+	"fmus": {
+		"{stimuli}": "./fmus/Stimuli.fmu",
+		"{control}": "./fmus/Control.fmu",
+		"{drive}": "./fmus/Drive.fmu"
+	},
+	"connections": {
+		"{stimuli}.stimuliInstance.w_desired": [
+			"{control}.controlInstance.w_desired"
+		],
+		"{stimuli}.stimuliInstance.LoadTorque_Nm": [
+			"{drive}.driveInstance.LoadTorque_Nm"
+		],
+		"{control}.controlInstance.V": [
+			"{drive}.driveInstance.V"
+		],
+		"{drive}.driveInstance.w": [
+			"{control}.controlInstance.w"
+		]
+	},
+	"parameters": {},
+	"algorithm":{
+		"type":"fixed-step",
+		"size":0.001
+	},
+	"loggingOn": false,
+	"overrideLogLevel": "INFO"
+}

@@ -1,0 +1,32 @@
+{
+	"fmus": {
+		"{stimuli}": "./fmus/Stimuli.fmu",
+		"{control}": "./fmus/Control.fmu",
+		"{drive}": "./fmus/Drive.fmu",
+		"{baseline}": "./fmus/MODELICA_Demo.ControlledElectricDrive.fmu"
+	},
+	"connections": {
+		"{stimuli}.stimuliInstance.w_desired": [
+			"{control}.controlInstance.w_desired"
+		],
+		"{stimuli}.stimuliInstance.LoadTorque_Nm": [
+			"{drive}.driveInstance.LoadTorque_Nm"
+		],
+		"{control}.controlInstance.V": [
+			"{drive}.driveInstance.V"
+		],
+		"{drive}.driveInstance.w": [
+			"{control}.controlInstance.w"
+		]
+	},
+	"parameters": {},
+	"logVariables": {
+		"{baseline}.baselineInstance": ["w"]
+	},
+	"algorithm":{
+		"type":"fixed-step",
+		"size":0.001
+	},
+	"loggingOn": false,
+	"overrideLogLevel": "INFO"
+}
