@@ -1,3 +1,5 @@
+![FMI-tutorial-logo](https://github.com/modelica/fmi-beginners-tutorial-2023/assets/2453858/a3b611e1-8bf8-4f48-85d9-07637ea31e0e)
+
 # FMI Beginner's tutorial
 
 This repository contains the agenda and materials for the [FMI Beginner's tutorial](https://www.conftool.com/modelica2023/index.php?page=browseSessions&form_session=5) presented at the [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/).
