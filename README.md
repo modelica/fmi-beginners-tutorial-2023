@@ -67,7 +67,6 @@ by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https
    1. Java (recommended version 11)
    2. Install the into-cps application. A full guide can be found in this video: https://youtu.be/HkWh-PubYQo
    3. Have a Google account that you can use for Google Colab.
-      
 
 ### Schedule
 
@@ -111,14 +110,8 @@ Slides can be downloaded [here](./part4/FMI-overall.pdf).
 
 ## Q&A (10 min)
 
-
-
-
-
-
 # Copyright and License
 
 Code and documentation copyright (C) 2023 the Modelica Association Project FMI.
-Code released under the https://opensource.org/licenses/BSD-2-Clause[2-Clause BSD License].
-Docs released under https://creativecommons.org/licenses/by-sa/4.0/[Attribution-ShareAlike 4.0 International].
-
+Code released under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).
+Docs released under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
