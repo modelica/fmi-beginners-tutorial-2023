@@ -19,7 +19,9 @@ by [Torsten Sommer](https://github.com/t-sommer)
 
 ### Prerequisites
 
-TODO
+- [Python with fmpy[complete]](https://github.com/CATIA-Systems/FMPy#installation)
+- [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) (optional)
+- [Simulink with Coder](https://mathworks.com/products/simulink-coder.html) and [FMI Kit](https://github.com/CATIA-Systems/FMIKit-Simulink) (optional)
 
 ### Schedule
 
