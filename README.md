@@ -51,23 +51,43 @@ Live demo + Jupyter notebook
 
 ## Break (30 min)
 
-## Part 3: Interacting with multiple FMUs (45 min)
+## Part 3: Connecting Multiple FMUs (45 min)
 
 by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https://github.com/clagms)
 
 ### Prerequisites
 
-TODO
-
-* Installation of IntoCPS App  (Video showing the installation of the IntoCPS applicaiton:  https://filesender.deic.dk/?s=download&token=233b87a9-33d7-496b-bba5-d2b489ef91bc)
-
+1. Optional requisites for following along in the live demo:
+   1. Java (recommended version 11)
+   2. Install the into-cps application. A full guide can be found in this video: https://youtu.be/HkWh-PubYQo
 
 ### Schedule
+
+1. Live demo using the into-cps application:
+   1. Setup
+      1. Pre-requisites: show that java is installed.
+      2. Download intocps application
+      3. Download coe from download manager.
+      4. Launch COE from UI to show that it works.
+   2. Configure a multimodel
+      1. Create new project (created project can be found in [part3/example_intocps_app](part3/example_intocps_app))
+      2. Locate FMUs to be used.
+      3. Move them to new project folder.
+      4. Create multi model
+   3. Configure a co-simulation
+      1. Create cosim configuration.
+      2. Explain the different options.
+      3. Run it.
+      4. Open the results folder
+   4. Exploring alternative co-simulation configurations.
+      1. Create new cosim config, with an increasing step size, and show instability creeping in.
+   5. Summary
 
 (Using Google Collab, needing a google account, using Jupyter notebooks)
 
 IntoCPS App (GUI): Vary the stepsize (instable --> stable), Demo
-Jupyter notebook (with maestro: - connecting and co-simulating multiple FMUs
+Jupyter notebook with maestro: 
+- connecting and co-simulating multiple FMUs
 - solver step size: varying from the command line, convergence study
 - include import of PI Controller from Simulink
 

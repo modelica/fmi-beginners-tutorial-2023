@@ -1,0 +1,1 @@
+{"fmus":{"{Controller}":"Controller.fmu","{Drive}":"Drive.fmu","{Stimuli}":"Stimuli.fmu"},"connections":{"{Controller}.ctrl.V":["{Drive}.drive.V"],"{Drive}.drive.w":["{Controller}.ctrl.w"],"{Stimuli}.stimuli.LoadTorque_Nm":["{Drive}.drive.LoadTorque_Nm"],"{Stimuli}.stimuli.w_desired":["{Controller}.ctrl.w_desired"]},"parameters":{}}
