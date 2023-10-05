@@ -63,7 +63,7 @@ by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https
 
 ### Schedule
 
-1. Live demo using the into-cps application:
+1. Live demo using the into-cps application (use the [slides](./part3/into-cps_demo.pptx) to follow along):
    1. Setup
       1. Pre-requisites: show that java is installed.
       2. Download intocps application
