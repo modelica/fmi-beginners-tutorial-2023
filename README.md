@@ -6,10 +6,12 @@ This repository contains the agenda and materials for the [FMI Beginner's tutori
 
 by [Christian Bertsch](https://github.com/chrbertsch)
 
-[PowerPoint presentation](part1/Introduction-to-FMI.pptx) covering
+[Presentation](part1/Introduction-to-FMI.pdf) covering
 
-- the motivation and history of the FMI
+- the motivation and history of FMI
 - general technical concepts
+- tool support
+- an outlook on FMI 3.0
 
 ## Part 2: Working with FMUs (45 min)
 
