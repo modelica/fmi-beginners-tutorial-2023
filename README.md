@@ -62,6 +62,8 @@ by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https
 1. Optional requisites for following along in the live demo:
    1. Java (recommended version 11)
    2. Install the into-cps application. A full guide can be found in this video: https://youtu.be/HkWh-PubYQo
+   3. Have a Google account that you can use for Google Colab.
+      
 
 ### Schedule
 
@@ -85,13 +87,13 @@ by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https
       1. Create new cosim config, with an increasing step size, and show instability creeping in.
    5. Summary
 
-(Using Google Collab, needing a google account, using Jupyter notebooks)
-
-IntoCPS App (GUI): Vary the stepsize (instable --> stable), Demo
-Jupyter notebook with maestro: 
-- connecting and co-simulating multiple FMUs
-- solver step size: varying from the command line, convergence study
-- include import of PI Controller from Simulink
+2. Using Google Colab, run the Jupyter notebook found in [part3/tutorial_multiple_FMUs](./part3/tutorial_multiple_FMUs/interaction_with_multiple_fmus.ipynb)
+   1. Run a co-simulation from the command line
+      1. Run a co-simulation with a single FMU
+      2. Run a co-simulation with multiple FMUs
+   2. Measure Accuracy of the Co-simulation Wrt to Baseline
+      1. Co-simulation Scenario with Baseline
+      2. Impact of Step Size on the Accuracy   
 
 ## Part 4: Closing Session (10 min)
 
