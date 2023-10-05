@@ -1,4 +1,4 @@
-![FMI-tutorial-logo](https://github.com/modelica/fmi-beginners-tutorial-2023/assets/2453858/a3b611e1-8bf8-4f48-85d9-07637ea31e0e)
+![FMI-tutorial-logo](FMI-tutorial-logo.png)
 
 # FMI Beginner's tutorial
 
