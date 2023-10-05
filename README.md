@@ -95,9 +95,11 @@ Jupyter notebook with maestro:
 
 by [Cinzia Bernardeschi](https://github.com/cbernardeschi) and [Cláudio Gomes](https://github.com/clagms)
 
-- (further) application catategories
-- role of FMI and Digital twin
-- FMI in simulation, FMI in Monitoring, 
+Slides can be downloaded [here](./part4/FMI-overall.pdf).
+
+### Schedule
+1. Overview of some FMI Applications
+2. Role of FMI in Digital twins.
 
 ## Q&A (10 min)
 
