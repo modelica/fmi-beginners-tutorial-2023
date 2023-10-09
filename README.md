@@ -39,7 +39,8 @@ Live demo + Jupyter notebook
 - Validation on Website
 
 - work with FMUs in FMPy
-  - set up FMPy, create file association, create desktop shortcut
+  - set up FMPy (with [mambaforge](https://github.com/conda-forge/miniforge/releases))
+  - open GUI, create file association, create desktop shortcut
   - view the model info
   - view the documentation
   - simulate the Drive FMU and plot the result
