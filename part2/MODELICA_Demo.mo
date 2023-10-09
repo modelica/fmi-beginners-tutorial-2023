@@ -280,5 +280,5 @@ package MODELICA_Demo
   end ControlledElectricDrive_ctrl_fmu_omc;
 
   annotation (
-    uses(Modelica(version="3.2.3"), ModelicaServices(version="3.2.3")));
+    uses(Modelica(version="4.0.0"), ModelicaServices(version="4.0.0")));
 end MODELICA_Demo;
