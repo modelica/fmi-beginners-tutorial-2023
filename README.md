@@ -113,16 +113,16 @@ Slides can be downloaded [here](./part4/FMI-overall.pdf).
 
 # Photos of the Event
 
-![Photo](231009-modelica23-0180-1920px.jpg) 
-![Photo](231009-modelica23-0181-1920px.jpg) 
-![Photo](231009-modelica23-0182-1920px.jpg) 
-![Photo](231009-modelica23-0183-1920px.jpg) 
-![Photo](231009-modelica23-0184-1920px.jpg) 
-![Photo](231009-modelica23-0185-1920px.jpg) 
-![Photo](231009-modelica23-0187-1920px.jpg) 
-![Photo](231009-modelica23-0190-1920px.jpg) 
-![Photo](231009-modelica23-0191-1920px.jpg) 
-![Photo](231009-modelica23-0192-1920px.jpg)
+![Photo](photos/231009-modelica23-0180-1920px.jpg) 
+![Photo](photos/231009-modelica23-0181-1920px.jpg) 
+![Photo](photos/231009-modelica23-0182-1920px.jpg) 
+![Photo](photos/231009-modelica23-0183-1920px.jpg) 
+![Photo](photos/231009-modelica23-0184-1920px.jpg) 
+![Photo](photos/231009-modelica23-0185-1920px.jpg) 
+![Photo](photos/231009-modelica23-0187-1920px.jpg) 
+![Photo](photos/231009-modelica23-0190-1920px.jpg) 
+![Photo](photos/231009-modelica23-0191-1920px.jpg) 
+![Photo](photos/231009-modelica23-0192-1920px.jpg)
 
 # Copyright and License
 
