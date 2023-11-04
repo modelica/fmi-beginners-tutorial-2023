@@ -2,7 +2,7 @@
 
 # FMI Beginner's tutorial
 
-This repository contains the agenda and materials for the [FMI Beginner's tutorial](https://www.conftool.com/modelica2023/index.php?page=browseSessions&form_session=5) presented at the [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/).
+This repository contains the agenda and materials for the [FMI Beginner's tutorial](https://www.conftool.com/modelica2023/index.php?page=browseSessions&form_session=5) presented at the [15th International Modelica Conference 2023](https://2023.international.conference.modelica.org/). A recording is available [on YouTube](https://www.youtube.com/watch?v=RlAafdCKCHU).
 
 ## Part 1: Introduction to the FMI (40 min)
 
